@@ -1,0 +1,27 @@
+body {
+  background-color: #ffffff;
+}
+ul {
+  list-style-type: none;
+  margin: auto;
+  padding: 0;
+  height: 20%;
+}
+li {
+  display: inline-block;
+  float: left;
+  padding-left: 30px;
+}
+li a {
+  text-decoration: none;
+  font-size: 30px;
+  color: orange;
+}
+.header {
+  height: 10%;
+  color: orange;
+  padding-top: 4%;
+  position: fixed;
+  background-color: teal;
+  width: 100%;
+}
