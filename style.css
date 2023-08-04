@@ -17,6 +17,9 @@ li a {
   font-size: 30px;
   color: orange;
 }
+li img {
+  padding-right: 0px;
+}
 .header {
   height: 10%;
   color: orange;
